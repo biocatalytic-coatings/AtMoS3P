@@ -49,17 +49,17 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>1hgjzQF9XTSiqpBbT8UxU+8DqcbWmXx64IW3mpaPRuc=</dsig:DigestValue>
+        <dsig:DigestValue>LwVzky41b1dbN61EHwsp/GERkdME4sWc0SeXSEN20UE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="AtMoS3.exe.config" size="277">
+  <file name="AtMoS3.exe.config" size="270">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>NR+IJPgmzUOSTQ37LPjBba/OwpcG6aowkywzmAFRzE4=</dsig:DigestValue>
+      <dsig:DigestValue>4V68WK9Padxx+MjrhgVF627x8U6Jqj03PxxYtgYd6Bo=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
