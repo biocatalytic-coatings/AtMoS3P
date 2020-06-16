@@ -32,7 +32,7 @@ import ADS1x15
 #import paho.mqtt.client as mqtt
 #import json
 
-int loops = sys.argv[1]
+loops = int(sys.argv[1])
 
 '''
 #   Setup Thingsboard access and data package
